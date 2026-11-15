@@ -17,5 +17,5 @@ A modular, CLI-based AI assistant built with Python and the **Google Gemini API 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/SahithiEluri/Local-Assistant.git
    cd Local-Assistant
